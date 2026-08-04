@@ -1,0 +1,10 @@
+.git
+.gitignore
+.idea
+.venv
+__pycache__
+*.pyc
+Documentation.docx
+LOCAL_CREDENTIALS.txt
+data
+qr_codes

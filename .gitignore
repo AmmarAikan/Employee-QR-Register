@@ -30,3 +30,8 @@ Thumbs.db
 
 # Environment secrets
 .env
+LOCAL_CREDENTIALS.txt
+
+# Private runtime data
+data/
+qr_codes/
