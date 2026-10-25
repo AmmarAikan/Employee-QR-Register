@@ -45,3 +45,11 @@ Employee records are stored under the ignored local `data/` directory. Generated
 ## Important scope
 
 This application protects a single-user local workflow. For multi-user or enterprise deployment, use centralized identity, an encrypted database, key rotation, operating-system access controls, backups, and managed audit logging.
+
+## Author
+
+**Ammar Aikan** — Cybersecurity Student & Security Researcher
+
+## Rights
+
+© 2026 Ammar Aikan. All Rights Reserved. See [COPYRIGHT.md](COPYRIGHT.md).
